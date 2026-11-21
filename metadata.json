@@ -1,0 +1,6 @@
+{
+  "name": "Bytruvyus Forge",
+  "description": "Rig designer and Procreate Dreams save inspector built on the Bitruvian kinematic puppet core.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
